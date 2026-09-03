@@ -44,7 +44,8 @@ flowchart LR
 | [TICKET-001](tickets/TICKET-001-account-recovery.md) | Recovering Linux account access | Completed |
 | [TICKET-002](TICKET-002-ssh-remote-access.md) | Configuring secure remote SSH access | Completed |
 | [TICKET-003](tickets/TICKET-003-ssh-service-recovery.md) | Diagnosing and restoring a failed SSH service | Completed |
-| [TICKET-004](tickets/TICKET-004-file-permissions-recovery.md) | Repairing Linux file ownership and permissions | Completed |
+| [TICKET-004](tickets/TICKET-004-file-permissions-recovery.md) | Repairing Linux file ownership and permissions | Completed | 
+| [TICKET-005](tickets/TICKET-005-disk-space-monitoring.md) | Diagnosing disk exhaustion and implementing automated monitoring | Completed |
 
 ## Skills Demonstrated
 
@@ -57,6 +58,9 @@ flowchart LR
 - OpenSSH installation and administration
 - Root-cause analysis
 - Incident-style technical documentation
+- Linux disk-capacity and log analysis
+- Bash scripting and exit-code handling
+- Cron scheduling and automated monitoring
 - Security-conscious troubleshooting
 
 ## Completed Scenario
