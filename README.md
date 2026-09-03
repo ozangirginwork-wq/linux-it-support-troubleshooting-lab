@@ -44,7 +44,7 @@ flowchart LR
 | [TICKET-001](tickets/TICKET-001-account-recovery.md) | Recovering Linux account access | Completed |
 | [TICKET-002](TICKET-002-ssh-remote-access.md) | Configuring secure remote SSH access | Completed |
 | [TICKET-003](tickets/TICKET-003-ssh-service-recovery.md) | Diagnosing and restoring a failed SSH service | Completed |
-| TICKET-004 | Repairing Linux file ownership and permissions | Planned |
+| [TICKET-004](tickets/TICKET-004-file-permissions-recovery.md) | Repairing Linux file ownership and permissions | Completed |
 
 ## Skills Demonstrated
 
