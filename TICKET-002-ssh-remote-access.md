@@ -98,7 +98,7 @@ Results confirmed:
 - The forwarded host port was bound to `127.0.0.1`, preventing access from other network devices.
 - SSH was configured to start automatically after reboot.
 - No passwords or private credentials were recorded.
-- The server fingerprint was checked during the initial connection.
+- The first-connection host-key prompt was acknowledged. In a production environment, the fingerprint should be independently verified before acceptance.
 - A non-root administrator account was used for remote access.
 
 ## Outcome
