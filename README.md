@@ -42,7 +42,7 @@ flowchart LR
 | Ticket | Scenario | Status |
 |---|---|---|
 | [TICKET-001](tickets/TICKET-001-account-recovery.md) | Recovering Linux account access | Completed |
-| TICKET-002 | Configuring secure remote SSH access | Planned |
+| TICKET-002 | | [TICKET-002](tickets/TICKET-002-ssh-remote-access.md) | Configuring secure remote SSH access | Completed |
 | TICKET-003 | Diagnosing and restoring a failed SSH service | Planned |
 | TICKET-004 | Repairing Linux file ownership and permissions | Planned |
 
